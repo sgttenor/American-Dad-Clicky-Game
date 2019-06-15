@@ -1,0 +1,16 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('https://images-na.ssl-images-amazon.com/images/I/81-OOzOxc7L._RI_.jpg');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+  margin-right: 50px;
+}
+
+.row {
+  margin-left: -140px;
+}
