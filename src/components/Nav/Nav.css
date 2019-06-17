@@ -4,7 +4,7 @@ nav {
     color: #fff;
     margin-bottom: 50px;
     background-color: rgb(56, 56, 56);
-    height: auto;
+    height: 150px;
     font-family: 'Bungee', cursive;
   }
 
@@ -40,6 +40,10 @@ nav {
     /* padding-left: 0px; */
     display: flex;
     align-items: center;
+  }
+
+  h3 {
+    text-align: center;
   }
   
   @media only screen and (max-width: 750px) {
